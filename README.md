@@ -8,7 +8,7 @@
 ### A little more about me...  
 
 ```javascript
-const Matias = {
+let Matias = {
     pronouns: "He" | "Him",
     code: ["Javascript", "React", "Node", "HTML", "CSS", "Bootstrap", "SASS",
            "PHP", "Mysql", "Java", "C++"],
