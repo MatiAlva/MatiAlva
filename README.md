@@ -10,9 +10,9 @@
 ```javascript
 let Matias = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "React", "Node", "HTML", "CSS", "Bootstrap", "SASS",
+    code: ["JavaScript", "React", "Styled-components", "Next.js" "Node", "HTML", "CSS", "Bootstrap", "SASS",
            "PHP", "Mysql", "Java", "C++"],
-    tools: ["React", "HTML", "CSS, "Bootstrap", "SASS"],
+    tools: ["React", "HTML", "CSS, "Bootstrap", "SASS", "Styled-components", "Next.js"],
 };
 ```
 
